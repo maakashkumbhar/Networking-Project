@@ -1,0 +1,5 @@
+Things To Do in the Project:
+	1:create a server 
+	2:create a client script
+	3:Make The connection 
+	4:Multiple clients should be connected 
